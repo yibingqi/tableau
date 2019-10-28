@@ -1,7 +1,7 @@
 # tableau
 
 ### Some dashboards
-A Customer dashboard showing profit and sale by Customer name. Use hierarcheis, Action, Filter, and Parameter in the dashboard. Use region, category, segment, date as filter. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/HierachiesActionsFilterandParameters/Customer?publish=yes).
+* A Customer dashboard showing profit and sale by Customer name. Use hierarcheis, Action, Filter, and Parameter in the dashboard. Use region, category, segment, date as filter. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/HierachiesActionsFilterandParameters/Customer?publish=yes).
 
 A Discount dashboard showing discount by region and postcode, and the relationship between profit and discount. Use hierarcheis, Action, Filter, map and Parameter in the dashboard. Use region, category, segment, date as filter. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/DiscountDetail/DiscountDetail?publish=yes).
 
