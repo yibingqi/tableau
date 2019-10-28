@@ -3,6 +3,8 @@
 ### Some dashboards
 A Customer dashboard showing profit and sale by Customer name. Use hierarcheis, Action, Filter, and Parameter in the dashboard. Use region, category, segment, date as filter. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/HierachiesActionsFilterandParameters/Customer?publish=yes).
 
+A Discount dashboard showing discount by region and postcode, and the relationship between profit and discount. Use hierarcheis, Action, Filter, map and Parameter in the dashboard. Use region, category, segment, date as filter. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/DiscountDetail/DiscountDetail?publish=yes).
+
 A report shows the pedestrians injured in NYC in 2017. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/NYpedestriansinjuredreport/Dashboard1?publish=yes). Datasets: NYPD_Motor_Vehicle_Collisions2017.xls; zipcodepopulation_nys.xls
 
 Analyze daily values of stock prices of major companies. Click [here](https://public.tableau.com/profile/yibing.qi#!/vizhome/StockPriceAnalysis_15685597797920/Dashboard1?publish=yes). Dataset: samplestockdata.xls
